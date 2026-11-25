@@ -1,2 +1,2 @@
 # personal
-Self-written Python script(s)
+Self-written Python scripts
